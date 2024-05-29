@@ -1,4 +1,4 @@
-package dev.naimsulejmani.springyoutube.auth;
+package dev.naimsulejmani.spring_security_jwt_token.auth;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

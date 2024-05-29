@@ -1,4 +1,4 @@
-package dev.naimsulejmani.springyoutube.config;
+package dev.naimsulejmani.spring_security_jwt_token.config;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
@@ -12,7 +12,6 @@ import java.security.Key;
 import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;
-import java.util.Objects;
 import java.util.function.Function;
 
 @Service

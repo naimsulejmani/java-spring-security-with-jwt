@@ -1,4 +1,4 @@
-package dev.naimsulejmani.springyoutube.config;
+package dev.naimsulejmani.spring_security_jwt_token.config;
 
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;

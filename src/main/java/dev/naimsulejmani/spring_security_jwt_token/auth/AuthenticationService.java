@@ -1,9 +1,9 @@
-package dev.naimsulejmani.springyoutube.auth;
+package dev.naimsulejmani.spring_security_jwt_token.auth;
 
-import dev.naimsulejmani.springyoutube.config.JwtService;
-import dev.naimsulejmani.springyoutube.user.Role;
-import dev.naimsulejmani.springyoutube.user.User;
-import dev.naimsulejmani.springyoutube.user.UserRepository;
+import dev.naimsulejmani.spring_security_jwt_token.config.JwtService;
+import dev.naimsulejmani.spring_security_jwt_token.user.Role;
+import dev.naimsulejmani.spring_security_jwt_token.user.User;
+import dev.naimsulejmani.spring_security_jwt_token.user.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;

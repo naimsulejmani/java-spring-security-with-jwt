@@ -1,4 +1,4 @@
-package dev.naimsulejmani.springyoutube;
+package dev.naimsulejmani.spring_security_jwt_token;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

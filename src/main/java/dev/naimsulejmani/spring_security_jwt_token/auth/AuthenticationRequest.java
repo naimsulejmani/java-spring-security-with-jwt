@@ -1,4 +1,4 @@
-package dev.naimsulejmani.springyoutube.auth;
+package dev.naimsulejmani.spring_security_jwt_token.auth;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -9,6 +9,7 @@ import lombok.NoArgsConstructor;
 @Builder
 @AllArgsConstructor
 @NoArgsConstructor
-public class AuthenticationResponse {
-    private String token;
+public class AuthenticationRequest {
+    private String email;
+    private String password;
 }

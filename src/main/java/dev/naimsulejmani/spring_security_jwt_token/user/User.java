@@ -1,4 +1,4 @@
-package dev.naimsulejmani.springyoutube.user;
+package dev.naimsulejmani.spring_security_jwt_token.user;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
